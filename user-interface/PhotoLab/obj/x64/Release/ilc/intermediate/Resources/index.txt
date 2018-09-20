@@ -1,0 +1,58 @@
+Telerik.UI.Xaml.Chart.UWP, Version=0.0.0.0, Culture=neutral, PublicKeyToken=da696acf63be444a
+  Telerik.UI.Xaml.Controls.Chart.ToolboxIcons.Telerik.UI.Xaml.Controls.Chart.RadCartesianChart.Icon.png
+  Telerik.UI.Xaml.Controls.Chart.ToolboxIcons.Telerik.UI.Xaml.Controls.Chart.RadPieChart.Icon.png
+  Telerik.UI.Xaml.Controls.Chart.ToolboxIcons.Telerik.UI.Xaml.Controls.Chart.RadPolarChart.Icon.png
+Telerik.UI.Xaml.Controls.Data.UWP, Version=0.0.0.0, Culture=neutral, PublicKeyToken=da696acf63be444a
+  Telerik.UI.Xaml.Controls.Data.ToolboxIcons.Telerik.UI.Xaml.Controls.Data.RadDataBoundListBox.Icon.png
+  Telerik.UI.Xaml.Controls.Data.ToolboxIcons.Telerik.UI.Xaml.Controls.Data.RadDataForm.Icon.png
+  Telerik.UI.Xaml.Controls.Data.ToolboxIcons.Telerik.UI.Xaml.Controls.Data.RadListView.Icon.png
+  Telerik.UI.Xaml.Controls.Data.ToolboxIcons.Telerik.UI.Xaml.Controls.Data.RadHexView.Icon.png
+Telerik.UI.Xaml.DataVisualization.UWP, Version=0.0.0.0, Culture=neutral, PublicKeyToken=da696acf63be444a
+  Telerik.UI.Xaml.Controls.DataVisualization.ToolboxIcons.Telerik.UI.Xaml.Controls.DataVisualization.RadBulletGraph.Icon.png
+  Telerik.UI.Xaml.Controls.DataVisualization.ToolboxIcons.Telerik.UI.Xaml.Controls.DataVisualization.RadLinearGauge.Icon.png
+  Telerik.UI.Xaml.Controls.DataVisualization.ToolboxIcons.Telerik.UI.Xaml.Controls.DataVisualization.RadRadialGauge.Icon.png
+Telerik.UI.Xaml.Grid.UWP, Version=0.0.0.0, Culture=neutral, PublicKeyToken=da696acf63be444a
+  Telerik.UI.Xaml.Controls.Grid.View.Columns.Resources.DefaultBooleanColumnEditorStyle.xaml
+  Telerik.UI.Xaml.Controls.Grid.View.Columns.Resources.DefaultBooleanColumnStyle.xaml
+  Telerik.UI.Xaml.Controls.Grid.View.Columns.Resources.DefaultComboBoxColumnEditorStyle.xaml
+  Telerik.UI.Xaml.Controls.Grid.View.Columns.Resources.DefaultDateColumnEditorStyle.xaml
+  Telerik.UI.Xaml.Controls.Grid.View.Columns.Resources.DefaultNumericalColumnEditorStyle.xaml
+  Telerik.UI.Xaml.Controls.Grid.View.Columns.Resources.DefaultTextColumnEditorStyle.xaml
+  Telerik.UI.Xaml.Controls.Grid.View.Columns.Resources.DefaultTextColumnStyle.xaml
+  Telerik.UI.Xaml.Controls.Grid.View.Columns.Resources.DefaultTimeColumnEditorStyle.xaml
+  Telerik.UI.Xaml.Controls.Grid.View.Columns.Resources.DefaultTextColumnFlyoutContentStyle.xaml
+  Telerik.UI.Xaml.Controls.Grid.ToolboxIcons.Telerik.UI.Xaml.Controls.Grid.RadDataGrid.Icon.png
+Telerik.UI.Xaml.Input.UWP, Version=0.0.0.0, Culture=neutral, PublicKeyToken=da696acf63be444a
+  Telerik.UI.Xaml.Controls.Input.ToolboxIcons.Telerik.UI.Xaml.Controls.Input.RadAutoCompleteBox.Icon.png
+  Telerik.UI.Xaml.Controls.Input.ToolboxIcons.Telerik.UI.Xaml.Controls.Input.RadCalendar.Icon.png
+  Telerik.UI.Xaml.Controls.Input.ToolboxIcons.Telerik.UI.Xaml.Controls.Input.RadDatePicker.Icon.png
+  Telerik.UI.Xaml.Controls.Input.ToolboxIcons.Telerik.UI.Xaml.Controls.Input.RadRating.Icon.png
+  Telerik.UI.Xaml.Controls.Input.ToolboxIcons.Telerik.UI.Xaml.Controls.Input.RadTimePicker.Icon.png
+  Telerik.UI.Xaml.Controls.Input.ToolboxIcons.Telerik.UI.Xaml.Controls.Input.RadNumericBox.Icon.png
+  Telerik.UI.Xaml.Controls.Input.ToolboxIcons.Telerik.UI.Xaml.Controls.Input.RadRangeSlider.Icon.png
+Telerik.UI.Xaml.Primitives.UWP, Version=0.0.0.0, Culture=neutral, PublicKeyToken=da696acf63be444a
+  Telerik.UI.Xaml.Controls.Primitives.BusyIndicator.Animations.AnimationStyle1.xaml
+  Telerik.UI.Xaml.Controls.Primitives.BusyIndicator.Animations.AnimationStyle2.xaml
+  Telerik.UI.Xaml.Controls.Primitives.BusyIndicator.Animations.AnimationStyle6.xaml
+  Telerik.UI.Xaml.Controls.Primitives.BusyIndicator.Animations.AnimationStyle3.xaml
+  Telerik.UI.Xaml.Controls.Primitives.BusyIndicator.Animations.AnimationStyle4.xaml
+  Telerik.UI.Xaml.Controls.Primitives.BusyIndicator.Animations.AnimationStyle5.xaml
+  Telerik.UI.Xaml.Controls.Primitives.BusyIndicator.Animations.AnimationStyle7.xaml
+  Telerik.UI.Xaml.Controls.Primitives.BusyIndicator.Animations.AnimationStyle8.xaml
+  Telerik.UI.Xaml.Controls.Primitives.BusyIndicator.Animations.AnimationStyle9.xaml
+  Telerik.UI.Xaml.Controls.Primitives.ToolboxIcons.Telerik.UI.Xaml.Controls.Primitives.RadBusyIndicator.Icon.png
+  Telerik.UI.Xaml.Controls.Primitives.ToolboxIcons.Telerik.UI.Xaml.Controls.Primitives.RadCustomHubTile.Icon.png
+  Telerik.UI.Xaml.Controls.Primitives.ToolboxIcons.Telerik.UI.Xaml.Controls.Primitives.RadDataBoundListBox.Icon.png
+  Telerik.UI.Xaml.Controls.Primitives.ToolboxIcons.Telerik.UI.Xaml.Controls.Primitives.RadHubTile.Icon.png
+  Telerik.UI.Xaml.Controls.Primitives.ToolboxIcons.Telerik.UI.Xaml.Controls.Primitives.RadMosaicHubTile.Icon.png
+  Telerik.UI.Xaml.Controls.Primitives.ToolboxIcons.Telerik.UI.Xaml.Controls.Primitives.RadPictureRotatorHubTile.Icon.png
+  Telerik.UI.Xaml.Controls.Primitives.ToolboxIcons.Telerik.UI.Xaml.Controls.Primitives.RadSlideHubTile.Icon.png
+  Telerik.UI.Xaml.Controls.Primitives.ToolboxIcons.Telerik.UI.Xaml.Controls.Primitives.RadHexHubTile.Icon.png
+  Telerik.UI.Xaml.Controls.Primitives.ToolboxIcons.Telerik.UI.Xaml.Controls.Primitives.RadLegendControl.Icon.png
+  Telerik.UI.Xaml.Controls.Primitives.ToolboxIcons.Telerik.UI.Xaml.Controls.Primitives.RadPaginationControl.Icon.png
+  Telerik.UI.Xaml.Controls.Primitives.ToolboxIcons.Telerik.UI.Xaml.Controls.Primitives.RadRadialMenu.Icon.png
+  Telerik.UI.Xaml.Controls.Primitives.ToolboxIcons.Telerik.UI.Xaml.Controls.Primitives.RadSideDrawer.Icon.png
+  Telerik.UI.Xaml.Controls.Primitives.ToolboxIcons.Telerik.UI.Xaml.Controls.Primitives.LoopingList.RadLoopingList.Icon.png
+  Telerik.UI.Xaml.Controls.Primitives.ToolboxIcons.Telerik.UI.Xaml.Controls.Primitives.RadExpanderControl.Icon.png
+Telerik.UI.Xaml.Map.UWP, Version=0.0.0.0, Culture=neutral, PublicKeyToken=da696acf63be444a
+  Telerik.UI.Xaml.Controls.Map.ToolboxIcons.Telerik.UI.Xaml.Controls.Map.RadMap.Icon.png

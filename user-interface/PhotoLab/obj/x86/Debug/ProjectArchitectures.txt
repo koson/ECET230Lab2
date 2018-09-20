@@ -1,0 +1,1 @@
+F:\School\Y2S1\ECET230\Lab2SideStoryXAMLtut\xaml-basics-starting-points\user-interface\PhotoLab\PhotoLab.csproj;x86

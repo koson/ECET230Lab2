@@ -1,0 +1,1 @@
+C:\Users\C0406142\source\repos\Lab2SideStoryXAMLtut\xaml-basics-starting-points\user-interface\PhotoLab\PhotoLab.csproj;x64
